@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to AWS SQS. Provides runners for queue m
 
 **GitHub**: https://github.com/LegionIO/lex-sqs
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
